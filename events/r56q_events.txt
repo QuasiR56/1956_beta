@@ -1,8 +1,8 @@
 # The Fall of Rome (Germany)
 news_event = {
-	id = news.514
-	title = news.514.t
-	desc = news.514.d
+	id = r56q.event.1
+	title = r56q.event.1.t
+	desc = r56q.event.1.d
 	picture = GFX_news_event_soldiers_marching
 	
 	major = yes
